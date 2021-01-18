@@ -1,4 +1,4 @@
-# CABG_mid_range_LVEF-
+# CABG_mid_range_LVEF
 Outcomes of Coronary Artery bypass Grafting in Heart failure with a mid-range Ejection Fraction. 
 
 This public repository contains the code for the paper published in the Journal of Thoracic and Cardiovascular Surgery. 
