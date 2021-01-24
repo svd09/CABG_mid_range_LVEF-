@@ -1,23 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# CABG\_mid\_range\_LVEF-
+# Outcomes of Coronary Artery bypass Grafting in Heart failure with a mid-range Ejection Fraction.
 
 [![](https://img.shields.io/badge/doi-https://doi.org/10.1016/j.jtcvs.2021.01.035-yellow.svg)](https://doi.org/https://doi.org/10.1016/j.jtcvs.2021.01.035)
 
-Outcomes of Coronary Artery bypass Grafting in Heart failure with a
-mid-range Ejection Fraction.
+*Salil V Deo MD<sup>1,2</sup>, Varun Sundaram MD<sup>2,3</sup>,
+Jayakumar Sahadevan MD<sup>2,3</sup>, Padmini Selvaganesan
+PhD<sup>3</sup>,Srikrishna Madan Mohan MD<sup>2</sup>, Joseph Rubelowsky
+MD<sup>1</sup>, Richard Josephson MD<sup>2,4</sup>, Yakov Elgudin
+MD<sup>1</sup>,Ahmet Kilic MD<sup>5</sup>, Brian Cmolik MD<sup>1</sup>*
 
-This public repository contains the code for the paper published in the
-Journal of Thoracic and Cardiovascular Surgery.
-
-Outcomes of Coronary Artery bypass Grafting in Heart failure with a
-mid-range Ejection Fraction.
-
-*Salil V Deo MD1,2, Varun Sundaram MD2,3, Jayakumar Sahadevan MD2,3,
-Padmini Selvaganesan PhD3,Srikrishna Madan Mohan MD2, Joseph Rubelowsky
-MD1, Richard Josephson MD2,4, Yakov Elgudin MD1,Ahmet Kilic MD5, Brian
-Cmolik MD1*
+## Affiliations:
 
 1 – Surgical Services, Louis Stokes Cleveland VA Medical Center,
 Cleveland Ohio
@@ -35,9 +29,12 @@ Baltimore, Maryland
 
 \*-both authors have contributed equally to this study
 
-Address for Correspondence:
+This public repository contains the code for the paper published in the
+Journal of Thoracic and Cardiovascular Surgery.
 
-Salil V Deo MD
+### Address for Correspondence:
+
+#### Salil V Deo MD
 
 Surgical Services,
 
