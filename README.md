@@ -14,13 +14,10 @@ Journal of Thoracic and Cardiovascular Surgery.
 Outcomes of Coronary Artery bypass Grafting in Heart failure with a
 mid-range Ejection Fraction.
 
-Salil V Deo MD1,2*, Varun Sundaram MD2,3*, Jayakumar Sahadevan MD2,3,
-Padmini Selvaganesan PhD3,
-
-Srikrishna Madan Mohan MD2, Joseph Rubelowsky MD1, Richard Josephson
-MD2,4, Yakov Elgudin MD1,
-
-Ahmet Kilic MD5, Brian Cmolik MD1
+*Salil V Deo MD1,2, Varun Sundaram MD2,3, Jayakumar Sahadevan MD2,3,
+Padmini Selvaganesan PhD3,Srikrishna Madan Mohan MD2, Joseph Rubelowsky
+MD1, Richard Josephson MD2,4, Yakov Elgudin MD1,Ahmet Kilic MD5, Brian
+Cmolik MD1*
 
 1 – Surgical Services, Louis Stokes Cleveland VA Medical Center,
 Cleveland Ohio
