@@ -47,3 +47,5 @@ Email: svd14@case.edu
 
 
 This repository contains code for the manuscript. It does not contain any PHI or HIPAA protected information.
+
+Link to PDF version of preprint paper: https://www.sciencedirect.com/science/article/pii/S002252232100132X
