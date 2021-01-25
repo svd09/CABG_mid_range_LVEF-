@@ -3,7 +3,9 @@
 
 # Outcomes of Coronary Artery bypass Grafting in Heart failure with a mid-range Ejection Fraction.
 
-[![](https://img.shields.io/badge/doi-https://doi.org/10.1016/j.jtcvs.2021.01.035-yellow.svg)](https://doi.org/https://doi.org/10.1016/j.jtcvs.2021.01.035)
+[![](https://img.shields.io/badge/doi-https://doi.org/10.1016/j.jtcvs.2021.01.035-blue.svg)](https://doi.org/https://doi.org/10.1016/j.jtcvs.2021.01.035)
+
+![](https://img.shields.io/badge/Louis%20Stokes%20Cleveland%20VA%20Medical%20Center-Cleveland%20VA%20CV%20Research%20Group-yellow.svg)
 
 *Salil V Deo MD<sup>1,2</sup>, Varun Sundaram MD<sup>2,3</sup>,
 Jayakumar Sahadevan MD<sup>2,3</sup>, Padmini Selvaganesan
@@ -52,6 +54,3 @@ Email: <svd14@case.edu>
 
 This repository contains code for the manuscript. It does not contain
 any PHI or HIPAA protected information.
-
-Link to PDF version of preprint paper:
-<https://www.sciencedirect.com/science/article/pii/S002252232100132X>
