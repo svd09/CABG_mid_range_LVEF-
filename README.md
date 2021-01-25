@@ -54,3 +54,5 @@ Email: <svd14@case.edu>
 
 This repository contains code for the manuscript. It does not contain
 any PHI or HIPAA protected information.
+
+![](graphical_abstract.png)
